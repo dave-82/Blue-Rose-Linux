@@ -1,4 +1,4 @@
-# Log for today
+# Log for 9/30/26
 
 today is 9/30/26, me, i and myself have decided on a amazing distro to create. it will be called linux tea, right now these couple of weeks and days are going to be planning, learning, and expiramenting, this project is for my resume, project, and expireance. i do not tend to make this into a malisious project. i plan to make this for fun,] anyways log one.
 
