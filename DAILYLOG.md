@@ -31,3 +31,8 @@ today is October 1st 2026, today im am making decisions and getting the general 
 
 ## honorable mentions
 David France - lead developer
+
+## end message
+i really enjoy all the support ive been getting around school for this project it brings me joy to see my friends belive in me! anyways now we got the general base down, time to sprung into action and learn! as always my geeks, hope you have a super duper day!
+
+
