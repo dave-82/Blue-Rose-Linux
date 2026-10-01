@@ -1,29 +1,29 @@
 # Log for 9/30/26
-today is 9/30/26, me, i and myself have decided on a amazing distro to create. it will be called linux tea, right now these couple of weeks and days are going to be planning, learning, and expiramenting, this project is for my resume, project, and expireance. i do not tend to make this into a malisious project. i plan to make this for fun, anyways log one.
+today is 9/30/26, me, i and myself have decided on an amazing distro to create. It will be called Linux Tea. Right now, these couple of weeks and days are going to be planning, learning, and experimenting. This project is for my resume, project, and experience. I do not intend to make this a malicious project. I plan to make this for fun; anyway, log one.
 
-## major achements on this log
-1. made the respritory.
-2. made it GNU GPL lisance
+## major achievements on this log
+1. made the repository.
+2. made it GNU GPL licensed
 3. brainstormed on the project.
 
-## addittional notes
-this is going to be a long project, at this time i do not acept any donations or help, this may and can change in the future, and also i do plan on making linux tea branding and name copyrighted, that doesnt mean you cant base your distro off of mine, thats fine, but you cant make a replica of my project. anyways thank you all for understanding and i apreatiate your curiosity in this new linux distro. 
+## additional notes
+this is going to be a long project, at this time i do not acept any donations or help, this may and can change in the future, and also i do plan on making linux tea branding and name copyrighted, that doesnt mean you cant base your distro off of mine, thats fine, but you cant make a replica of my project. Anyways, thank you all for understanding, and I appreciate your curiosity in this new Linux distro. 
 
 ## honorable mentions
-david france - lead developer
+David France - lead developer
 
 ## end message
-as we end this notes i will be working on this distro in my free time. and as always my fellow nerds! have a super duper day!
+As we end these notes, I will be working on this distro in my free time. And as always, my fellow nerds! Have a super duper day!
 
 # log for 10/1/26
-today is October 1st 2026, today im am making decisions and getting the general ideal system down, first we will describe conponents used:
+Today is October 1st, 2026. Today I am making decisions and getting the general ideal system down. First, we will describe the components used:
 - Grub bootloader
 - Systemd init
 - our own package manager
 - glibc
 - XFCE preconfigured
 - flatpak preconfigured
-- firefox as default browser
+- Firefox as default browser
 - alacritty as default terminal
 
 ## major achevements in this log
@@ -33,6 +33,9 @@ today is October 1st 2026, today im am making decisions and getting the general 
 David France - lead developer
 
 ## end message
-i really enjoy all the support ive been getting around school for this project it brings me joy to see my friends belive in me! anyways now we got the general base down, time to sprung into action and learn! as always my geeks, hope you have a super duper day!
+I really enjoy all the support I've been getting around school for this project; it brings me joy to see my friends believe in me! Anyways, now we've got the general base down; time to spring into action and learn! As always, my geeks, hope you have a super duper day!
+
+## Major announcement
+Linux Tea will now be called Blue Rose Linux due to TealinuxOS already possessing a similar name. Thank you for understanding
 
 
