@@ -38,10 +38,10 @@ I really enjoy all the support I've been getting around school for this project;
 ## Major announcement
 Linux Tea will now be called Blue Rose Linux due to TealinuxOS already possessing a similar name. Thank you for understanding
 
-# log for 10/2/26
+## log for 10/2/26
 Dear person reading this, thank you for your interest in Blue Rose! I am still pretty new to coding and still learning java in school, so I'm going to take a month or two to learn how to code in C and Bash; this will most likely be the last log for a while. Now here's what I've decided: the identity of Blue Rose Linux
 
-# blue rose's identity
+## blue rose's identity
 - uses the linux LTS kernel
 - uses XFCE as default Desktop Enviorment
 - glibc as standard C libary
